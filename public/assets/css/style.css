@@ -1,0 +1,59 @@
+body { 
+	background-color: #F2F6D0 
+	padding-top: 70px; 
+}
+.jumbotron{
+	/*background-color:#eee;*/
+	margin-top: 20px;
+	text-align: center;
+	background: rgba(255,217,149,0.1);
+	background-image: url("../images/vzlatop.jpg");
+	background-size: cover;
+	opacity: 0.9;
+
+}
+
+h1{
+	background-color: RGB(255,255,255);
+}
+
+
+#wrapper {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+padding-top: 1%;
+}
+
+#saveButton{
+	/*position: absolute;*/
+	display: block;
+	margin: 0 0 0 auto;
+}
+/*#articles {
+	display: inline-block;
+	overflow: auto;
+	width: 100%;
+	height: 700px;
+}
+*/
+/*#notes {
+float: right;
+width: 30%;
+}*/
+/*
+textarea, input {
+display: block;
+width: 100%;
+background-color: #FCF5C7;
+}
+
+input {
+height: 36px;
+font-size: 24px;
+}
+
+textarea {
+height: 200px;
+font-size: 18px;
+}*/
